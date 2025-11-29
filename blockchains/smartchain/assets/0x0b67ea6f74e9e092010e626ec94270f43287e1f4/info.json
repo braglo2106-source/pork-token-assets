@@ -1,0 +1,16 @@
+{
+  "name": "Pork-Token",
+  "symbol": "PKT",
+  "decimals": 18,
+  "website": "https://inverpork.com",
+  "description": "El token oficial de Inverpork, respaldado por producción porcina real y diseñado para inversiones agrofintech sostenibles.",
+  "explorer": "https://bscscan.com/token/0x0b67ea6f74e9e092010e626ec94270f43287e1f4",
+  "type": "BEP20",
+  "chainId": 56,
+  "status": "active",
+  "tags": [
+    "defi",
+    "utility",
+    "agrofintech"
+  ]
+}
